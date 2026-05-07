@@ -9,7 +9,7 @@
 ## 🌐 Visit My Website
 
 <p align="center">
-  <a href="http://79.72.18.79/#intro">
+  <a href="https://deathterrorblade.win/">
     <img src="https://img.shields.io/badge/🌐 NekoNekoNee-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
